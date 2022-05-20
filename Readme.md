@@ -13,15 +13,7 @@
 
   
 
-<a href="https://raganork-api.vercel.app/api/deploy" target="blank"><img align="center" src="/language/Deploy.png" alt="Deploy bot" height="112" width="310" /></a>
-
-  <div>
-
-<br>
-
-<a href="https://github.com/sou6av/raganork-deployer/fork"><img align="center" src="/language/repo.png" alt="Fork and deploy" height="112"
-                                                                
-<div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fbaileys-qr.vercel.app%2F&template=https%3A%2F%2Fgithub.com%2FShaheen00%2Fraganork-deploy.git)
  
 
 # Official Group
